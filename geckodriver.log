@@ -1,0 +1,290 @@
+1508333249561	geckodriver	INFO	geckodriver 0.19.0
+1508333249577	geckodriver	INFO	Listening on 127.0.0.1:58471
+1508333251889	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.I7nCuOH4ywBD"
+1508333261388	Marionette	INFO	Listening on port 58477
+1508333262054	Marionette	WARN	TLS certificate errors will be ignored for this session
+INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.Ta77Yjh4nhcv"
+1508333271236	Marionette	INFO	Listening on port 58503
+1508333271640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508333285852	geckodriver	INFO	geckodriver 0.19.0
+1508333285869	geckodriver	INFO	Listening on 127.0.0.1:58558
+1508333288079	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.1e3G7zX8cOiH"
+1508333295823	Marionette	INFO	Listening on port 58564
+1508333296559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508333344513	geckodriver	INFO	geckodriver 0.19.0
+1508333344532	geckodriver	INFO	Listening on 127.0.0.1:58598
+1508333346744	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.IwCuM4XeoTHz"
+1508333353484	Marionette	INFO	Listening on port 58604
+1508333354146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508333386777	geckodriver	INFO	geckodriver 0.19.0
+1508333386795	geckodriver	INFO	Listening on 127.0.0.1:58638
+1508333389017	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.m3S6qxQWXXPO"
+1508333395613	Marionette	INFO	Listening on port 58644
+1508333396531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508333413352	geckodriver	INFO	geckodriver 0.19.0
+1508333413369	geckodriver	INFO	Listening on 127.0.0.1:58679
+1508333415578	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.1zesl5o6akYT"
+1508333421894	Marionette	INFO	Listening on port 58685
+1508333422921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508333447743	geckodriver	INFO	geckodriver 0.19.0
+1508333447760	geckodriver	INFO	Listening on 127.0.0.1:58720
+1508333449971	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.wGAl8YgxtK4B"
+1508333456819	Marionette	INFO	Listening on port 58726
+1508333457606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508333931170	geckodriver	INFO	geckodriver 0.19.0
+1508333931188	geckodriver	INFO	Listening on 127.0.0.1:58813
+1508333933398	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.DPGdvi8yUOsJ"
+1508333940093	Marionette	INFO	Listening on port 58819
+1508333940855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508335157444	geckodriver	INFO	geckodriver 0.19.0
+1508335157459	geckodriver	INFO	Listening on 127.0.0.1:59184
+1508335159678	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.KRIh73Y5WGww"
+1508335166361	Marionette	INFO	Listening on port 59190
+1508335167086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508335391759	geckodriver	INFO	geckodriver 0.19.0
+1508335391774	geckodriver	INFO	Listening on 127.0.0.1:59487
+1508335393962	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.rM8iIGOftBLZ"
+1508335400637	Marionette	INFO	Listening on port 59497
+1508335401411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508335923919	geckodriver	INFO	geckodriver 0.19.0
+1508335923937	geckodriver	INFO	Listening on 127.0.0.1:60262
+1508335926150	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.Ne7jrdFxuZxR"
+1508335933001	Marionette	INFO	Listening on port 60270
+1508335933687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ted.com/, line 1: ReferenceError: osdlfm is not defined
+1508336038981	geckodriver	INFO	geckodriver 0.19.0
+1508336038998	geckodriver	INFO	Listening on 127.0.0.1:60481
+1508336041207	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.EdpzdbsXlWNJ"
+1508336048165	Marionette	INFO	Listening on port 60491
+1508336048662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508336228337	geckodriver	INFO	geckodriver 0.19.0
+1508336228352	geckodriver	INFO	Listening on 127.0.0.1:60841
+1508336230593	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.OyobPcxGc5AF"
+1508336237235	Marionette	INFO	Listening on port 60851
+1508336238019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ted.com/, line 1: ReferenceError: osdlfm is not defined
+1508336291597	geckodriver	INFO	geckodriver 0.19.0
+1508336291612	geckodriver	INFO	Listening on 127.0.0.1:60989
+1508336293872	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.xbcwsEc2HsFJ"
+1508336300413	Marionette	INFO	Listening on port 60999
+1508336301301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ted.com/, line 1: ReferenceError: osdlfm is not defined
+1508336492391	geckodriver	INFO	geckodriver 0.19.0
+1508336492409	geckodriver	INFO	Listening on 127.0.0.1:61379
+1508336494617	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.dOxD7a2lRsUO"
+1508336501565	Marionette	INFO	Listening on port 61387
+1508336502182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508336517321	geckodriver	INFO	geckodriver 0.19.0
+1508336517336	geckodriver	INFO	Listening on 127.0.0.1:61480
+1508336519571	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.qvlrD6MQnRB6"
+1508336526277	Marionette	INFO	Listening on port 61490
+1508336527005	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508336610457	geckodriver	INFO	geckodriver 0.19.0
+1508336610473	geckodriver	INFO	Listening on 127.0.0.1:61674
+1508336612676	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.Bd3BPNOcOaDC"
+1508336619257	Marionette	INFO	Listening on port 61684
+1508336620083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ted.com/, line 1: ReferenceError: osdlfm is not defined
+1508337960708	geckodriver	INFO	geckodriver 0.19.0
+1508337960724	geckodriver	INFO	Listening on 127.0.0.1:63229
+1508337962943	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.jDnZpXpqWUQQ"
+1508337969710	Marionette	INFO	Listening on port 63237
+1508337970666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508338015153	geckodriver	INFO	geckodriver 0.19.0
+1508338015169	geckodriver	INFO	Listening on 127.0.0.1:63362
+1508338017372	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.ZpQjq2JrNyC2"
+1508338024171	Marionette	INFO	Listening on port 63370
+1508338024778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508341475703	geckodriver	INFO	geckodriver 0.19.0
+1508341475719	geckodriver	INFO	Listening on 127.0.0.1:51912
+1508341477923	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.ndouiCM1Qmac"
+1508341484596	Marionette	INFO	Listening on port 51920
+1508341485351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508341625452	geckodriver	INFO	geckodriver 0.19.0
+1508341625468	geckodriver	INFO	Listening on 127.0.0.1:52148
+1508341627671	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.Go1VXuCFeKXa"
+1508341634227	Marionette	INFO	Listening on port 52158
+1508341635097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508341710605	geckodriver	INFO	geckodriver 0.19.0
+1508341710621	geckodriver	INFO	Listening on 127.0.0.1:52333
+1508341712840	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.NIF2dW0NQROJ"
+1508341719623	Marionette	INFO	Listening on port 52343
+1508341720359	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508341911977	geckodriver	INFO	geckodriver 0.19.0
+1508341911992	geckodriver	INFO	Listening on 127.0.0.1:52654
+1508341914228	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.omgUmxDzVBCr"
+1508341921095	Marionette	INFO	Listening on port 52664
+1508341921777	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508342014747	geckodriver	INFO	geckodriver 0.19.0
+1508342014762	geckodriver	INFO	Listening on 127.0.0.1:52867
+1508342016993	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.8WCxOvXaXy7P"
+1508342023671	Marionette	INFO	Listening on port 52877
+1508342024486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508342164474	geckodriver	INFO	geckodriver 0.19.0
+1508342164506	geckodriver	INFO	Listening on 127.0.0.1:53142
+1508342166709	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.qbrmbypUSyRi"
+1508342173304	Marionette	INFO	Listening on port 53152
+1508342174171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508342229626	geckodriver	INFO	geckodriver 0.19.0
+1508342229643	geckodriver	INFO	Listening on 127.0.0.1:53328
+1508342231881	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.gRuT1JmbQdnS"
+1508342238759	Marionette	INFO	Listening on port 53336
+1508342239251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508342258272	geckodriver	INFO	geckodriver 0.19.0
+1508342258289	geckodriver	INFO	Listening on 127.0.0.1:53441
+1508342260501	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.bCO3o4f6Zf6x"
+1508342267061	Marionette	INFO	Listening on port 53451
+1508342267890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508342280720	geckodriver	INFO	geckodriver 0.19.0
+1508342280737	geckodriver	INFO	Listening on 127.0.0.1:53549
+1508342282936	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.zGBDUZ9SQpjB"
+1508342289601	Marionette	INFO	Listening on port 53557
+1508342290307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508342317376	geckodriver	INFO	geckodriver 0.19.0
+1508342317393	geckodriver	INFO	Listening on 127.0.0.1:53678
+1508342319593	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.T3GVq1dHdgZp"
+1508342326001	Marionette	INFO	Listening on port 53686
+1508342326947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508342449866	geckodriver	INFO	geckodriver 0.19.0
+1508342449884	geckodriver	INFO	Listening on 127.0.0.1:53923
+1508342452096	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.yDX9qKpMGyJp"
+1508342458738	Marionette	INFO	Listening on port 53933
+1508342459473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508342558572	geckodriver	INFO	geckodriver 0.19.0
+1508342558588	geckodriver	INFO	Listening on 127.0.0.1:54134
+1508342560798	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.cb3sCovYFYWL"
+1508342567466	Marionette	INFO	Listening on port 54144
+1508342568147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508342600112	geckodriver	INFO	geckodriver 0.19.0
+1508342600130	geckodriver	INFO	Listening on 127.0.0.1:54264
+1508342602348	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.OSuG7NB0maBM"
+1508342608797	Marionette	INFO	Listening on port 54272
+1508342609703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508416400885	geckodriver	INFO	geckodriver 0.19.0
+1508416400901	geckodriver	INFO	Listening on 127.0.0.1:59130
+1508416403191	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.CMmoMfOfF6b8"
+1508416411569	Marionette	INFO	Listening on port 59136
+1508416412140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1508416433539	Marionette	INFO	Ceased listening
+1508416532012	geckodriver	INFO	geckodriver 0.19.0
+1508416532043	geckodriver	INFO	Listening on 127.0.0.1:59207
+1508416534268	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.236s6v5KlxMz"
+1508416541164	Marionette	INFO	Listening on port 59213
+1508416541787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1508416567325	Marionette	INFO	Ceased listening
+1508416581295	geckodriver	INFO	geckodriver 0.19.0
+1508416581311	geckodriver	INFO	Listening on 127.0.0.1:59277
+1508416583552	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.MajqYHaOVBpz"
+1508416590083	Marionette	INFO	Listening on port 59283
+1508416590960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1508416611527	Marionette	INFO	Ceased listening
+1508416739644	geckodriver	INFO	geckodriver 0.19.0
+1508416739660	geckodriver	INFO	Listening on 127.0.0.1:59353
+1508416741890	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.vjyvtvit2Aez"
+1508416748850	Marionette	INFO	Listening on port 59359
+1508416749490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508418293655	geckodriver	INFO	geckodriver 0.19.0
+1508418293675	geckodriver	INFO	Listening on 127.0.0.1:57556
+1508418295889	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.QWetrwGXNZex"
+1508418303038	Marionette	INFO	Listening on port 57566
+1508418303546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508420351750	geckodriver	INFO	geckodriver 0.19.0
+1508420351769	geckodriver	INFO	Listening on 127.0.0.1:60579
+1508420353940	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.fsHXSuJwvYLa"
+1508420360969	Marionette	INFO	Listening on port 60587
+1508420361473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508420384282	geckodriver	INFO	geckodriver 0.19.0
+1508420384300	geckodriver	INFO	Listening on 127.0.0.1:60686
+1508420386523	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.yXyMjhOcY8qI"
+1508420393390	Marionette	INFO	Listening on port 60696
+1508420393976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508420444840	geckodriver	INFO	geckodriver 0.19.0
+1508420444858	geckodriver	INFO	Listening on 127.0.0.1:60831
+1508420447072	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.Hgu4LOpFwMQG"
+1508420453667	Marionette	INFO	Listening on port 60839
+1508420454522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508420654785	geckodriver	INFO	geckodriver 0.19.0
+1508420654803	geckodriver	INFO	Listening on 127.0.0.1:61180
+1508420657024	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.oYnfNEco2cSg"
+1508420664010	Marionette	INFO	Listening on port 61188
+1508420664518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508420781531	geckodriver	INFO	geckodriver 0.19.0
+1508420781549	geckodriver	INFO	Listening on 127.0.0.1:61418
+1508420783763	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.XS6h5cIA0bHO"
+1508420790715	Marionette	INFO	Listening on port 61426
+1508420791262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508421351341	geckodriver	INFO	geckodriver 0.19.0
+1508421351357	geckodriver	INFO	Listening on 127.0.0.1:62371
+1508421353582	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.XKRnGmRnZO08"
+1508421360662	Marionette	INFO	Listening on port 62379
+1508421361314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508421386561	Marionette	INFO	New connections will no longer be accepted
+1508424573385	geckodriver	INFO	geckodriver 0.19.0
+1508424573400	geckodriver	INFO	Listening on 127.0.0.1:63253
+1508424575631	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.Tj46GJxnDG0C"
+1508424583000	Marionette	INFO	Listening on port 63259
+1508424583477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508424649209	geckodriver	INFO	geckodriver 0.19.0
+1508424649226	geckodriver	INFO	Listening on 127.0.0.1:63317
+1508424651437	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.gfNI4V6Y5JTv"
+1508424658238	Marionette	INFO	Listening on port 63323
+1508424658876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ted.com/, line 1: ReferenceError: osdlfm is not defined
+1508428283306	geckodriver	INFO	geckodriver 0.19.0
+1508428283323	geckodriver	INFO	Listening on 127.0.0.1:63539
+1508428285543	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.30wzb0haOnyX"
+1508428292555	Marionette	INFO	Listening on port 63545
+1508428293010	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508428316309	Marionette	INFO	New connections will no longer be accepted
+1508497896643	geckodriver	INFO	geckodriver 0.19.0
+1508497896661	geckodriver	INFO	Listening on 127.0.0.1:55654
+1508497898910	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.SfYNRU5MWLQK"
+1508497905938	Marionette	INFO	Listening on port 55660
+1508497906423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508497928588	Marionette	INFO	New connections will no longer be accepted
+1508497995901	geckodriver	INFO	geckodriver 0.19.0
+1508497995916	geckodriver	INFO	Listening on 127.0.0.1:55757
+1508497998156	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.QDJZmDwozHxg"
+1508498004823	Marionette	INFO	Listening on port 55763
+1508498005546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508498023974	geckodriver	INFO	geckodriver 0.19.0
+1508498023992	geckodriver	INFO	Listening on 127.0.0.1:55829
+1508498026206	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.d3FdeBc2mDJM"
+1508498032921	Marionette	INFO	Listening on port 55835
+1508498033638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508498125389	geckodriver	INFO	geckodriver 0.19.0
+1508498125405	geckodriver	INFO	Listening on 127.0.0.1:55901
+1508498127624	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.ljlUtwLVwxnn"
+1508498134437	Marionette	INFO	Listening on port 55907
+1508498135080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508498473954	geckodriver	INFO	geckodriver 0.19.0
+1508498473985	geckodriver	INFO	Listening on 127.0.0.1:56374
+1508498476189	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.5pUkFRwTELzd"
+1508498482937	Marionette	INFO	Listening on port 56382
+1508498483636	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508498619186	geckodriver	INFO	geckodriver 0.19.0
+1508498619218	geckodriver	INFO	Listening on 127.0.0.1:56635
+1508498621444	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.k4mVxXN7ulfJ"
+1508498628243	Marionette	INFO	Listening on port 56645
+1508498628912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508498690900	geckodriver	INFO	geckodriver 0.19.0
+1508498690916	geckodriver	INFO	Listening on 127.0.0.1:56804
+1508498693135	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.xym9C3INjllV"
+1508498699943	Marionette	INFO	Listening on port 56812
+1508498700629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508498730388	geckodriver	INFO	geckodriver 0.19.0
+1508498730417	geckodriver	INFO	Listening on 127.0.0.1:56934
+1508498732633	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.6yfgPPVq74aO"
+1508498739337	Marionette	INFO	Listening on port 56942
+1508498740083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508498783151	geckodriver	INFO	geckodriver 0.19.0
+1508498783167	geckodriver	INFO	Listening on 127.0.0.1:57081
+1508498785389	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\E8F7~1\\AppData\\Local\\Temp\\rust_mozprofile.axmHtKItyU4E"
+1508498792069	Marionette	INFO	Listening on port 57089
+1508498792813	Marionette	WARN	TLS certificate errors will be ignored for this session
